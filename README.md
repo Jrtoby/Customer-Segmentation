@@ -18,7 +18,7 @@ Businesses often collect large volumes of customer data but fail to leverage it 
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools
 
 - Microsoft Power BI  
 - SQL Server (Data extraction, cleaning and RFM logic) 
@@ -31,13 +31,6 @@ Businesses often collect large volumes of customer data but fail to leverage it 
 ## 🔎 Data Discovery
 
 The dataset consists of retail transaction data from a UK-based online store. Key columns include:
-
-- CustomerID
-- InvoiceDate
-- Quantity
-- UnitPrice
-- Country
-
 Initial exploration revealed issues such as:
 - Missing values
 - Duplicate records
@@ -101,3 +94,10 @@ These were cleaned in SQL Server before importing into Power BI for analysis.
 │       ├── Overview.png                      # The overview page
 │       ├── Customer_Segment.png              # Customer segmentation visuals
 │       ├── Revenue.png                       # Revenue and top customer visuals
+
+## 🚀 How to Use
+
+1. Clone the repo or download the .pbix file
+2. Open it in Power BI Desktop
+3. Explore the dashboard pages and visuals
+4. Filter by month, segment, or customer to dig deeper
