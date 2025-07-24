@@ -126,7 +126,8 @@ The customer base shows a large percentage of **inactive or lost customers**, in
 - Focus retention efforts on **Lost** and **At Risk** segments which make up over 28% of the customer base.
 - Strengthen relationships with **Champions**, **Loyal**, and **Big Spenders** who collectively drive major revenue.
 - Convert **Recent** and **Potential Customers** into long-term buyers through onboarding journeys and tailored marketing.
-They have just made a purchase now is the time to nurture them by
+
+**They have just made a purchase now is the time to nurture them by**
 - Welcome Message/Email: Thank them for their purchase and introduce brand’s values.
 
 - Education: Provide product usage tips, FAQs, or tutorial content to ensure a good experience.
