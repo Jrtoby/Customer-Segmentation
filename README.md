@@ -147,3 +147,6 @@ The customer base shows a large percentage of **inactive or lost customers**, in
 2. Open it in Power BI Desktop
 3. Explore the dashboard pages and visuals
 4. Filter by month, segment, or customer to dig deeper
+
+## Linkedin 
+https://www.linkedin.com/in/okafor-sopuluchukwu-toby-456693214
