@@ -8,7 +8,7 @@ This Power BI project applies RFM (Recency, Frequency, Monetary) analysis on cus
 
 ## 🎯 Aim
 
-To analyze customer purchasing behavior and segment them into actionable categories such as Champions, At Risk, and Loyal Customers — enabling personalized marketing, improved retention, and targeted sales strategy.
+To analyze customer purchasing behavior and segment them into actionable categories such as Champions, At Risk, and Loyal Customers, enabling personalized marketing, improved retention, and targeted sales strategy.
 
 ---
 
